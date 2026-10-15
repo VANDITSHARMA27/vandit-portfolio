@@ -94,7 +94,3 @@ Edit the files in `content/` — `site.ts`, `experience.ts`, `projects.ts`, `ski
 
 - 📧 vanditsharma2711@gmail.com
 - 💼 [linkedin.com/in/vanditsharma](https://www.linkedin.com/in/vanditsharma)
-
-## Acknowledgements
-
-The design and code structure are based on the open-source [Archit Agrawal Neon Portfolio](https://github.com/Archit1502/Archit_Agrawal_Neon_Portfolio_V2) template. All content here is my own.
